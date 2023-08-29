@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.15.11](https://github.com/folke/noice.nvim/compare/v1.15.10...v1.15.11) (2023-08-29)
+
+
+### Bug Fixes
+
+* read conceal setting after sort ([#558](https://github.com/folke/noice.nvim/issues/558)) ([24c09cc](https://github.com/folke/noice.nvim/commit/24c09cc0263054cb3d8dedf2c54b570e655850f5))
+
 ## [1.15.10](https://github.com/folke/noice.nvim/compare/v1.15.9...v1.15.10) (2023-08-26)
 
 
